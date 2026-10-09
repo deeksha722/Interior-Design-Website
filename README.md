@@ -1,4 +1,4 @@
-# 🏡 AI-Based Interior Design Website
+# 🏡 Interior Design Website
 
 A web-based interior design platform designed to help users explore interior design ideas and create visually appealing living spaces. The project focuses on providing a simple and user-friendly interface for discovering interior design inspiration.
 
