@@ -16,7 +16,6 @@ Currently, the website focuses on its frontend and design experience, with AI-po
 * HTML5
 * CSS3
 * Bootstrap
-* JavaScript *(if used in the project)*
 
 ## 🚀 Future Enhancements
 
